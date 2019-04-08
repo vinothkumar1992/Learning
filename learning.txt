@@ -5,3 +5,4 @@ Start to learn github
 3.crearte new branch with name of github
 4.Edit from ramu 
 5.Solve issue 8
+6.Issues 2 Sove
